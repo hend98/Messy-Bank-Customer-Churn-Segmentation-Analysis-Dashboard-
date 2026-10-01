@@ -262,22 +262,23 @@ The identified segments can serve as a starting point for deeper analysis of cus
 ### Page 1 — Executive Overview
 
 High-level customer and churn KPIs.
-![Executive Overview](Screenshots/01_Executive_Overview.png)
+![Executive Overview](Screenshots/1_Executive%20Overview.png)
 
 ### Page 2 — Customer & Churn Analysis
 
 Demographic and customer-level churn patterns.
-![Customer & Churn Analysis](Screenshots/02_Customer_Churn_Analysis.png)
+![Customer Churn Analysis](Screenshots/2_Customer%20Churn%20Analysis.png)
 
 ### Page 3 — Account & Product Analysis
 
 Account characteristics, balances, membership, and product usage.
-![Account & Product Analysis](Screenshots/03_Account_Product_Analysis.png)
+![Account & Product Analysis](Screenshots/3_Account%20&%20Product%20Analysis.png)
 
 ### Page 4 — Customer Segmentation & Churn
 
 Detailed segmentation by geography and age to identify high-churn customer groups.
-![Customer Segmentation & Churn](Screenshots/04_Customer_Segmentation.png)
+![Customer Segmentation & Churn](Screenshots/4_Customer%20Segmentation%20&%20Churn.png)
+
 ---
 
 # 🚀 Project Outcome
